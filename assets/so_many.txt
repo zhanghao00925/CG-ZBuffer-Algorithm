@@ -1,0 +1,141 @@
+background 0.1 0.1 0.1 1.0
+mesh ../assets/bunny_1k.obj
+color 1 0 0 1
+translate 1 0 2
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 0 1 0 1
+translate 1 0 3
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 1 0 1
+translate 2 0 1
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 0 0 1 1
+translate 2 0 2
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 0 1 1
+translate 2 0 3
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 0 1 1 1
+translate 3 0 1
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 1 1 1
+translate 3 0 2
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 0 0 1
+translate 1 0 5
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 0 1 0 1
+translate 1 0 6
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 1 0 1
+translate 2 0 4
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 0 0 1 1
+translate 2 0 5
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 0 1 1
+translate 2 0 6
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 0 1 1 1
+translate 3 0 4
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 1 1 1
+translate 3 0 5
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 0 0 1
+translate 4 0 2
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 0 1 0 1
+translate 4 0 3
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 1 0 1
+translate 5 0 1
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 0 0 1 1
+translate 5 0 2
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 0 1 1
+translate 5 0 3
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 0 1 1 1
+translate 6 0 1
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 1 1 1
+translate 6 0 2
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 0 0 1
+translate 4 0 5
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 0 1 0 1
+translate 4 0 6
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 1 0 1
+translate 5 0 4
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 0 0 1 1
+translate 5 0 5
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 0 1 1
+translate 5 0 6
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 0 1 1 1
+translate 6 0 4
+scale 3 3 3
+end
+mesh ../assets/bunny_1k.obj
+color 1 1 1 1
+translate 6 0 5
+scale 3 3 3
+end

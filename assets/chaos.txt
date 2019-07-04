@@ -1,0 +1,12 @@
+background 0.1 0.1 0.1 1.0
+mesh ../assets/bunny_40k.obj
+color 1 1 0 1
+rotate 120 0 1 0
+scale 15 15 15
+end
+mesh ../assets/bunny_40k.obj
+color 0 1 1 1
+rotate 300 0 1 0
+translate 0 0 1
+scale 10 10 10
+end
